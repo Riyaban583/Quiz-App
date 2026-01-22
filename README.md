@@ -21,19 +21,6 @@
 
 ---
 
-### 🎯 Quiz Interface
-<img src="https://via.placeholder.com/800x400/4A90E2/FFFFFF?text=Quiz+Question+Screen" alt="Quiz Screen" width="700"/>
-
-### ✅ Answer Feedback
-<img src="https://via.placeholder.com/800x400/7CB342/FFFFFF?text=Correct+Answer+Highlighted" alt="Correct Answer" width="700"/>
-
-### 🏆 Final Results
-<img src="https://via.placeholder.com/800x400/FF6B6B/FFFFFF?text=Score+Summary+Screen" alt="Results Screen" width="700"/>
-
-</div>
-
----
-
 ## 🌟 Features
 
 <div align="center">
@@ -170,16 +157,5 @@ const [result, setResult] = useState(false);
 | ⭐ | 📊 Question difficulty levels | 💡 Idea |
 | ⭐ | 💾 Save progress locally | 💡 Idea |
 | ⭐ | 🏅 Leaderboard system | 💡 Idea |
-
-</div>
-
----
-
-**Made with ❤️ by Riya Bansal**
-
----
-
-<img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
 
 </div>
